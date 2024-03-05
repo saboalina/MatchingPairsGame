@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD5F6C79-0135-4DBC-9AD3-EC875443426D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "215282CC-DD8E-4296-BF09-1CA788C4139D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchingPairs/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04BAD814-01D4-446D-9E88-C71133785C6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchingPairs/CardCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setCell(symbolsArray:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04BAD814-01D4-446D-9E88-C71133785C6D - e7d35f777891c1b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MatchingPairs.CardCell.setCell(symbolsArray: Swift.Array&lt;Swift.String&gt;, index: Swift.Int) -&gt; ()"
+                  moduleName = "MatchingPairs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinasabobrandus/Site/MatchingPairs/MatchingPairs/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "04BAD814-01D4-446D-9E88-C71133785C6D - e7d35f777891c1b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MatchingPairs.CardCell.setCell(symbolsArray: Swift.Array&lt;Swift.String&gt;, index: Swift.Int) -&gt; ()"
+                  moduleName = "MatchingPairs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinasabobrandus/Site/MatchingPairs/MatchingPairs/CardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
